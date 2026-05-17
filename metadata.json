@@ -1,0 +1,6 @@
+{
+  "name": "JanSetu",
+  "description": "Your trusted companion for navigating government benefits. JanSetu helps Indian citizens discover verified schemes, scholarships, and welfare programs with AI-powered matching and security.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
